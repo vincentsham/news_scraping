@@ -1,4 +1,4 @@
-# 📰 Stock News Scraper — Benzinga & Nasdaq
+# Stock News Scraper — Benzinga & Nasdaq
 
 Automated **Selenium-based scrapers** for collecting stock and ETF news headlines from **Benzinga** and **Nasdaq**.  
 Designed for **Google Colab** or local execution, the scripts support **incremental updates**, **headless browsers**, and **CSV exports** for downstream AI/ML analysis.
